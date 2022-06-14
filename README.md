@@ -15,6 +15,8 @@
 ### Connect with me:
 
 <a href="https://github.com/hamnaSaleem1212"><img src="https://img.icons8.com/color-glass/50/000000/github.png" alt='github'/></a>
+<a href="https://www.facebook.com/hamna.cheema.475."><img src="https://img.icons8.com/color-glass/48/000000/facebook-new.png" alt='facebook'/></a>
+<a href="https://www.instagram.com/hamna.cheema.969/"><img src="https://img.icons8.com/color-glass/50/000000/instagram-new.png" alt='instagram'/></a>
 
 <br />
 
